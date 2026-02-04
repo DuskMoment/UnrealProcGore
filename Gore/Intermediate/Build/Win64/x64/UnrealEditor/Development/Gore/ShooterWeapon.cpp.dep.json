@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\wmans\\onedrive\\desktop\\git projects\\gore\\unrealprocgore\\gore\\source\\gore\\variant_shooter\\weapons\\shooterweapon.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\wmans\\onedrive\\desktop\\git projects\\gore\\unrealprocgore\\gore\\intermediate\\build\\win64\\x64\\goreeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\wmans\\onedrive\\desktop\\git projects\\gore\\unrealprocgore\\gore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gore\\definitions.gore.h",
+            "c:\\users\\wmans\\onedrive\\desktop\\git projects\\gore\\unrealprocgore\\gore\\source\\gore\\variant_shooter\\weapons\\shooterweapon.h",
+            "c:\\users\\wmans\\onedrive\\desktop\\git projects\\gore\\unrealprocgore\\gore\\source\\gore\\variant_shooter\\weapons\\shooterweaponholder.h",
+            "c:\\users\\wmans\\onedrive\\desktop\\git projects\\gore\\unrealprocgore\\gore\\intermediate\\build\\win64\\unrealeditor\\inc\\gore\\uht\\shooterweaponholder.generated.h",
+            "c:\\users\\wmans\\onedrive\\desktop\\git projects\\gore\\unrealprocgore\\gore\\intermediate\\build\\win64\\unrealeditor\\inc\\gore\\uht\\shooterweapon.generated.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
+            "c:\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetmathlibrary.generated.h",
+            "c:\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl",
+            "c:\\users\\wmans\\onedrive\\desktop\\git projects\\gore\\unrealprocgore\\gore\\source\\gore\\variant_shooter\\weapons\\shooterprojectile.h",
+            "c:\\users\\wmans\\onedrive\\desktop\\git projects\\gore\\unrealprocgore\\gore\\intermediate\\build\\win64\\unrealeditor\\inc\\gore\\uht\\shooterprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

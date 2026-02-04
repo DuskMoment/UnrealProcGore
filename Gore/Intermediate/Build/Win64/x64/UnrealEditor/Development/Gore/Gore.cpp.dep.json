@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\wmans\\onedrive\\desktop\\git projects\\gore\\unrealprocgore\\gore\\source\\gore\\gore.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\wmans\\onedrive\\desktop\\git projects\\gore\\unrealprocgore\\gore\\intermediate\\build\\win64\\x64\\goreeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\wmans\\onedrive\\desktop\\git projects\\gore\\unrealprocgore\\gore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gore\\definitions.gore.h",
+            "c:\\users\\wmans\\onedrive\\desktop\\git projects\\gore\\unrealprocgore\\gore\\source\\gore\\gore.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Gore",
+			"Path": "..\\Source\\Gore.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GoreEditor",
+			"Path": "..\\Source\\GoreEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,2 @@
+/Gore/Binaries/Win64/UnrealEditor-Gore.pdb filter=lfs diff=lfs merge=lfs -text
+/Gore/Intermediate/CachedAssetRegistry_0.bin filter=lfs diff=lfs merge=lfs -text

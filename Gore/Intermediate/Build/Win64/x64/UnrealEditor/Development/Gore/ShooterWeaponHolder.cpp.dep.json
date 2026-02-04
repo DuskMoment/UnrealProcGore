@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\wmans\\onedrive\\desktop\\git projects\\gore\\unrealprocgore\\gore\\source\\gore\\variant_shooter\\weapons\\shooterweaponholder.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\wmans\\onedrive\\desktop\\git projects\\gore\\unrealprocgore\\gore\\intermediate\\build\\win64\\x64\\goreeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\wmans\\onedrive\\desktop\\git projects\\gore\\unrealprocgore\\gore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gore\\definitions.gore.h",
+            "c:\\users\\wmans\\onedrive\\desktop\\git projects\\gore\\unrealprocgore\\gore\\source\\gore\\variant_shooter\\weapons\\shooterweaponholder.h",
+            "c:\\users\\wmans\\onedrive\\desktop\\git projects\\gore\\unrealprocgore\\gore\\intermediate\\build\\win64\\unrealeditor\\inc\\gore\\uht\\shooterweaponholder.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
