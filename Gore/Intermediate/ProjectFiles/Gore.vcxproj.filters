@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -64,6 +65,30 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\Gore\GorePlayerController.h">
       <Filter>Source\Gore</Filter>
+    </ClInclude>
+    <Filter Include="Source\Gore\Private">
+      <UniqueIdentifier>{957C3262-96F4-3E3A-8659-4248F14DD5D7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Gore\Private\GoreBoneData.cpp">
+      <Filter>Source\Gore\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Gore\Private\SocketData.cpp">
+      <Filter>Source\Gore\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Gore\Private\TestActor.cpp">
+      <Filter>Source\Gore\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Gore\Public">
+      <UniqueIdentifier>{9BED2B90-A0F7-3EFD-98A1-06992314EAE4}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Gore\Public\GoreBoneData.h">
+      <Filter>Source\Gore\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Gore\Public\SocketData.h">
+      <Filter>Source\Gore\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Gore\Public\TestActor.h">
+      <Filter>Source\Gore\Public</Filter>
     </ClInclude>
     <Filter Include="Source\Gore\Variant_Horror">
       <UniqueIdentifier>{9F48D19A-847A-30EA-8011-714CFD80BBBC}</UniqueIdentifier>

@@ -1,2 +1,6 @@
 /Gore/Binaries/Win64/UnrealEditor-Gore.pdb filter=lfs diff=lfs merge=lfs -text
 /Gore/Intermediate/CachedAssetRegistry_0.bin filter=lfs diff=lfs merge=lfs -text
+/Gore/Binaries/Win64/UnrealEditor-Gore.patch_0.pdb filter=lfs diff=lfs merge=lfs -text
+/Gore/Binaries/Win64/UnrealEditor-Gore.patch_1.pdb filter=lfs diff=lfs merge=lfs -text
+/Gore/Binaries/Win64/UnrealEditor-Gore.patch_2.pdb filter=lfs diff=lfs merge=lfs -text
+/Gore/Binaries/Win64/UnrealEditor-Gore.patch_3.pdb filter=lfs diff=lfs merge=lfs -text

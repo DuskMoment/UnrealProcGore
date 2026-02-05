@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoreModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+876f745b24010dd866ccb32fc21a75c4298a8862")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+299a0fbedc7df33f2efe3326c291552fe006992d")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoreModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoreModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

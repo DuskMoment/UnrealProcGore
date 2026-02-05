@@ -1,11 +1,6 @@
-[12588:13708:0204/085339.048:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[12588:13708:0204/085339.212:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[12588:13708:0204/085351.784:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[1780:23216:0204/085359.645:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-95C58561AC57AE12996047A552E43185 will be ignored
-[12588:2588:0204/085400.512:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[12588:13708:0204/085400.622:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[12588:13708:0204/085400.664:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[12588:13708:0204/085400.666:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[12588:13708:0204/085400.666:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[12588:2588:0204/085401.129:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[12588:13708:0204/085458.954:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[35772:36176:0205/114556.086:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[35772:36176:0205/114556.219:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[35772:36176:0205/114559.647:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[34644:36700:0205/114602.365:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-419EC97D2744C9D2D75CD1AD543CCB7A will be ignored
+[35772:30576:0205/114603.834:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[35772:36176:0205/132736.011:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

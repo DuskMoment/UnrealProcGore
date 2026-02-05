@@ -4,6 +4,7 @@
 		"Module.Gore.cpp.obj": [
 			"EnvQueryContext_Target.gen.cpp.obj",
 			"Gore.init.gen.cpp.obj",
+			"GoreBoneData.gen.cpp.obj",
 			"GoreCameraManager.gen.cpp.obj",
 			"GoreCharacter.gen.cpp.obj",
 			"GoreGameMode.gen.cpp.obj",
@@ -25,6 +26,8 @@
 			"ShooterUI.gen.cpp.obj",
 			"ShooterWeapon.gen.cpp.obj",
 			"ShooterWeaponHolder.gen.cpp.obj",
+			"SocketData.gen.cpp.obj",
+			"TestActor.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",
 			"Gore.cpp.obj",
 			"GoreCameraManager.cpp.obj",
@@ -48,7 +51,10 @@
 			"ShooterPickup.cpp.obj",
 			"ShooterProjectile.cpp.obj",
 			"ShooterWeapon.cpp.obj",
-			"ShooterWeaponHolder.cpp.obj"
+			"ShooterWeaponHolder.cpp.obj",
+			"GoreBoneData.cpp.obj",
+			"SocketData.cpp.obj",
+			"TestActor.cpp.obj"
 		]
 	}
 }

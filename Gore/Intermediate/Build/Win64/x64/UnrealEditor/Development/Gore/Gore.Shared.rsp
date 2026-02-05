@@ -1,4 +1,5 @@
 /I "."
+/I "C:/Users/wmans/OneDrive/Desktop/Git Projects/Gore/UnrealProcGore/Gore/Source/Gore/Private"
 /I "../Intermediate/Build/Win64/UnrealEditor/Inc/Engine/UHT"
 /I "Runtime/Engine/Classes"
 /I "Runtime/Engine/Public"
@@ -295,6 +296,7 @@
 /I "C:/Users/wmans/OneDrive/Desktop/Git Projects/Gore/UnrealProcGore/Gore/Source/Gore/Variant_Shooter/UI"
 /I "C:/Users/wmans/OneDrive/Desktop/Git Projects/Gore/UnrealProcGore/Gore/Source/Gore/Variant_Shooter/Weapons"
 /I "C:/Users/wmans/OneDrive/Desktop/Git Projects/Gore/UnrealProcGore/Gore/Source"
+/I "C:/Users/wmans/OneDrive/Desktop/Git Projects/Gore/UnrealProcGore/Gore/Source/Gore/Public"
 /I "../Plugins/EnhancedInput/Intermediate/Build/Win64/UnrealEditor/Inc/EnhancedInput/UHT"
 /I "../Plugins/EnhancedInput/Source"
 /I "../Plugins/EnhancedInput/Source/EnhancedInput/Public"
