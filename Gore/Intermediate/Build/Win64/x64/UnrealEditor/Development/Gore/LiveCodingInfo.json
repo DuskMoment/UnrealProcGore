@@ -34,6 +34,9 @@
 			"GoreCharacter.cpp.obj",
 			"GoreGameMode.cpp.obj",
 			"GorePlayerController.cpp.obj",
+			"GoreBoneData.cpp.obj",
+			"SocketData.cpp.obj",
+			"TestActor.cpp.obj",
 			"HorrorCharacter.cpp.obj",
 			"HorrorGameMode.cpp.obj",
 			"HorrorPlayerController.cpp.obj",
@@ -51,10 +54,7 @@
 			"ShooterPickup.cpp.obj",
 			"ShooterProjectile.cpp.obj",
 			"ShooterWeapon.cpp.obj",
-			"ShooterWeaponHolder.cpp.obj",
-			"GoreBoneData.cpp.obj",
-			"SocketData.cpp.obj",
-			"TestActor.cpp.obj"
+			"ShooterWeaponHolder.cpp.obj"
 		]
 	}
 }

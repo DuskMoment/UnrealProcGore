@@ -4,6 +4,7 @@
 		"Module.Gore.cpp.obj": [
 			"EnvQueryContext_Target.gen.cpp.obj",
 			"Gore.init.gen.cpp.obj",
+			"GoreBoneData.gen.cpp.obj",
 			"GoreCameraManager.gen.cpp.obj",
 			"GoreCharacter.gen.cpp.obj",
 			"GoreGameMode.gen.cpp.obj",
