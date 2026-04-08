@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Delegate FPawnDeathDelegate ****************************************************
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_AI_ShooterNPC_h_10_DELEGATE \
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_AI_ShooterNPC_h_10_DELEGATE \
 GORE_API void FPawnDeathDelegate_DelegateWrapper(const FMulticastScriptDelegate& PawnDeathDelegate);
 
 
@@ -27,7 +27,7 @@ GORE_API void FPawnDeathDelegate_DelegateWrapper(const FMulticastScriptDelegate&
 struct Z_Construct_UClass_AShooterNPC_Statics;
 GORE_API UClass* Z_Construct_UClass_AShooterNPC_NoRegister();
 
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_AI_ShooterNPC_h_22_INCLASS_NO_PURE_DECLS \
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_AI_ShooterNPC_h_22_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAShooterNPC(); \
 	friend struct ::Z_Construct_UClass_AShooterNPC_Statics; \
@@ -39,7 +39,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<AShooterNPC*>(this); }
 
 
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_AI_ShooterNPC_h_22_ENHANCED_CONSTRUCTORS \
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_AI_ShooterNPC_h_22_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AShooterNPC(); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -51,12 +51,12 @@ public: \
 	NO_API virtual ~AShooterNPC();
 
 
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_AI_ShooterNPC_h_19_PROLOG
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_AI_ShooterNPC_h_22_GENERATED_BODY \
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_AI_ShooterNPC_h_19_PROLOG
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_AI_ShooterNPC_h_22_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_AI_ShooterNPC_h_22_INCLASS_NO_PURE_DECLS \
-	FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_AI_ShooterNPC_h_22_ENHANCED_CONSTRUCTORS \
+	FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_AI_ShooterNPC_h_22_INCLASS_NO_PURE_DECLS \
+	FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_AI_ShooterNPC_h_22_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -66,6 +66,6 @@ class AShooterNPC;
 // ********** End Class AShooterNPC ****************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_AI_ShooterNPC_h
+#define CURRENT_FILE_ID FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_AI_ShooterNPC_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

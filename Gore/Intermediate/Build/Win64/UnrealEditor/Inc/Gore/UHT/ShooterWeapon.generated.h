@@ -19,7 +19,7 @@ class AActor;
 class USkeletalMeshComponent;
 
 // ********** Begin Class AShooterWeapon ***********************************************************
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_Weapons_ShooterWeapon_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_Weapons_ShooterWeapon_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execGetThirdPersonMesh); \
 	DECLARE_FUNCTION(execGetFirstPersonMesh); \
 	DECLARE_FUNCTION(execOnOwnerDestroyed);
@@ -28,7 +28,7 @@ class USkeletalMeshComponent;
 struct Z_Construct_UClass_AShooterWeapon_Statics;
 GORE_API UClass* Z_Construct_UClass_AShooterWeapon_NoRegister();
 
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_Weapons_ShooterWeapon_h_26_INCLASS_NO_PURE_DECLS \
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_Weapons_ShooterWeapon_h_26_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAShooterWeapon(); \
 	friend struct ::Z_Construct_UClass_AShooterWeapon_Statics; \
@@ -39,7 +39,7 @@ public: \
 	DECLARE_SERIALIZER(AShooterWeapon)
 
 
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_Weapons_ShooterWeapon_h_26_ENHANCED_CONSTRUCTORS \
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_Weapons_ShooterWeapon_h_26_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AShooterWeapon(AShooterWeapon&&) = delete; \
 	AShooterWeapon(const AShooterWeapon&) = delete; \
@@ -49,13 +49,13 @@ public: \
 	NO_API virtual ~AShooterWeapon();
 
 
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_Weapons_ShooterWeapon_h_23_PROLOG
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_Weapons_ShooterWeapon_h_26_GENERATED_BODY \
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_Weapons_ShooterWeapon_h_23_PROLOG
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_Weapons_ShooterWeapon_h_26_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_Weapons_ShooterWeapon_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_Weapons_ShooterWeapon_h_26_INCLASS_NO_PURE_DECLS \
-	FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_Weapons_ShooterWeapon_h_26_ENHANCED_CONSTRUCTORS \
+	FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_Weapons_ShooterWeapon_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_Weapons_ShooterWeapon_h_26_INCLASS_NO_PURE_DECLS \
+	FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_Weapons_ShooterWeapon_h_26_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -65,6 +65,6 @@ class AShooterWeapon;
 // ********** End Class AShooterWeapon *************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_Weapons_ShooterWeapon_h
+#define CURRENT_FILE_ID FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_Weapons_ShooterWeapon_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

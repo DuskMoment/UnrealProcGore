@@ -18,7 +18,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin ScriptStruct FGoreBoneData *****************************************************
 struct Z_Construct_UScriptStruct_FGoreBoneData_Statics;
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Public_GoreBoneData_h_11_GENERATED_BODY \
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Public_GoreBoneData_h_11_GENERATED_BODY \
 	friend struct ::Z_Construct_UScriptStruct_FGoreBoneData_Statics; \
 	GORE_API static class UScriptStruct* StaticStruct();
 
@@ -27,6 +27,6 @@ struct FGoreBoneData;
 // ********** End ScriptStruct FGoreBoneData *******************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Public_GoreBoneData_h
+#define CURRENT_FILE_ID FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Public_GoreBoneData_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

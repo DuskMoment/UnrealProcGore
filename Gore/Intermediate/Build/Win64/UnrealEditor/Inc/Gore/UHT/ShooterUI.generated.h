@@ -17,11 +17,11 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class UShooterUI ***************************************************************
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_UI_ShooterUI_h_15_CALLBACK_WRAPPERS
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_UI_ShooterUI_h_15_CALLBACK_WRAPPERS
 struct Z_Construct_UClass_UShooterUI_Statics;
 GORE_API UClass* Z_Construct_UClass_UShooterUI_NoRegister();
 
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_UI_ShooterUI_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_UI_ShooterUI_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUShooterUI(); \
 	friend struct ::Z_Construct_UClass_UShooterUI_Statics; \
@@ -32,7 +32,7 @@ public: \
 	DECLARE_SERIALIZER(UShooterUI)
 
 
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_UI_ShooterUI_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_UI_ShooterUI_h_15_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UShooterUI(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -44,13 +44,13 @@ public: \
 	NO_API virtual ~UShooterUI();
 
 
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_UI_ShooterUI_h_12_PROLOG
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_UI_ShooterUI_h_15_GENERATED_BODY \
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_UI_ShooterUI_h_12_PROLOG
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_UI_ShooterUI_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_UI_ShooterUI_h_15_CALLBACK_WRAPPERS \
-	FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_UI_ShooterUI_h_15_INCLASS_NO_PURE_DECLS \
-	FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_UI_ShooterUI_h_15_ENHANCED_CONSTRUCTORS \
+	FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_UI_ShooterUI_h_15_CALLBACK_WRAPPERS \
+	FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_UI_ShooterUI_h_15_INCLASS_NO_PURE_DECLS \
+	FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_UI_ShooterUI_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -60,6 +60,6 @@ class UShooterUI;
 // ********** End Class UShooterUI *****************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_UI_ShooterUI_h
+#define CURRENT_FILE_ID FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_Variant_Shooter_UI_ShooterUI_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -20,7 +20,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct Z_Construct_UClass_AGorePlayerController_Statics;
 GORE_API UClass* Z_Construct_UClass_AGorePlayerController_NoRegister();
 
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_GorePlayerController_h_20_INCLASS_NO_PURE_DECLS \
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_GorePlayerController_h_20_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAGorePlayerController(); \
 	friend struct ::Z_Construct_UClass_AGorePlayerController_Statics; \
@@ -31,7 +31,7 @@ public: \
 	DECLARE_SERIALIZER(AGorePlayerController)
 
 
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_GorePlayerController_h_20_ENHANCED_CONSTRUCTORS \
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_GorePlayerController_h_20_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AGorePlayerController(AGorePlayerController&&) = delete; \
 	AGorePlayerController(const AGorePlayerController&) = delete; \
@@ -41,12 +41,12 @@ public: \
 	NO_API virtual ~AGorePlayerController();
 
 
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_GorePlayerController_h_17_PROLOG
-#define FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_GorePlayerController_h_20_GENERATED_BODY \
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_GorePlayerController_h_17_PROLOG
+#define FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_GorePlayerController_h_20_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_GorePlayerController_h_20_INCLASS_NO_PURE_DECLS \
-	FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_GorePlayerController_h_20_ENHANCED_CONSTRUCTORS \
+	FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_GorePlayerController_h_20_INCLASS_NO_PURE_DECLS \
+	FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_GorePlayerController_h_20_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -56,6 +56,6 @@ class AGorePlayerController;
 // ********** End Class AGorePlayerController ******************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_wmans_OneDrive_Desktop_Git_Projects_Gore_UnrealProcGore_Gore_Source_Gore_GorePlayerController_h
+#define CURRENT_FILE_ID FID_Users_wmans_Desktop_Git_Projects_UnrealProcGore_Gore_Source_Gore_GorePlayerController_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

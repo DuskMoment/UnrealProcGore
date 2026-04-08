@@ -1,13 +1,12 @@
-"C:/Users/wmans/OneDrive/Desktop/Git Projects/Gore/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/UnrealEditor/Development/Gore/Module.Gore.cpp"
-@"C:/Users/wmans/OneDrive/Desktop/Git Projects/Gore/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/UnrealEditor/Development/Gore/Gore.Shared.rsp"
-/FI"C:/Users/wmans/OneDrive/Desktop/Git Projects/Gore/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/GoreEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
-/FI"C:/Users/wmans/OneDrive/Desktop/Git Projects/Gore/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/UnrealEditor/Development/Gore/Definitions.Gore.h"
-/Yu"C:/Users/wmans/OneDrive/Desktop/Git Projects/Gore/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/GoreEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
-/Fp"C:/Users/wmans/OneDrive/Desktop/Git Projects/Gore/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/GoreEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
-/Fo"C:/Users/wmans/OneDrive/Desktop/Git Projects/Gore/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/UnrealEditor/Development/Gore/Module.Gore.cpp.obj"
-/experimental:log "C:/Users/wmans/OneDrive/Desktop/Git Projects/Gore/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/UnrealEditor/Development/Gore/Module.Gore.cpp.sarif"
-/sourceDependencies "C:/Users/wmans/OneDrive/Desktop/Git Projects/Gore/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/UnrealEditor/Development/Gore/Module.Gore.cpp.dep.json"
-/d2ssa-cfg-question-
+"C:/Users/wmans/Desktop/Git Projects/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/UnrealEditor/Development/Gore/Module.Gore.cpp"
+@"C:/Users/wmans/Desktop/Git Projects/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/UnrealEditor/Development/Gore/Gore.Shared.rsp"
+/FI"C:/Users/wmans/Desktop/Git Projects/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/GoreEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"C:/Users/wmans/Desktop/Git Projects/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/UnrealEditor/Development/Gore/Definitions.Gore.h"
+/Yu"C:/Users/wmans/Desktop/Git Projects/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/GoreEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"C:/Users/wmans/Desktop/Git Projects/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/GoreEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"C:/Users/wmans/Desktop/Git Projects/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/UnrealEditor/Development/Gore/Module.Gore.cpp.obj"
+/experimental:log "C:/Users/wmans/Desktop/Git Projects/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/UnrealEditor/Development/Gore/Module.Gore.cpp.sarif"
+/sourceDependencies "C:/Users/wmans/Desktop/Git Projects/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/UnrealEditor/Development/Gore/Module.Gore.cpp.dep.json"
 /nologo
 /Oi
 /FC
