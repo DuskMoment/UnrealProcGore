@@ -8,7 +8,8 @@ Instructions for creating your own system.
 1. Create an actor
 2. Make sure that said actor has a skeletal mesh
 3. Then add the main driver of the system to your actor, the Bone Manager component
-<img width="130" height="173" alt="image" src="https://github.com/user-attachments/assets/5f03723e-1264-4906-a15d-8b983d5cacd3" />
+![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/BoneManager.png)
+
 
 
 After this is added, you can now configure your mesh. The configuration consists of three main components. The first of which is the BloodSocketDiscripter
