@@ -12,10 +12,9 @@ Instructions for creating your own system.
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/BoneManager.png)
 
 
-
 After this is added, you can now configure your mesh. The configuration consists of three main components. The first of which is the BloodSocketDiscripter
 
-<img width="100" height="160" alt="image" src="https://github.com/user-attachments/assets/3bdc7efb-37c6-40f2-b701-a8e4a45ff339" />
+![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/BloodSocket.png)
 
 This contains all of the descriptions of how your mesh is cut. Here is an example of how you might set one up
 <img width="1654" height="392" alt="image" src="https://github.com/user-attachments/assets/859ccb2d-8ec9-4bda-aa0d-622210a05d77" />
