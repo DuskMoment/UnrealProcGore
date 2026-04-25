@@ -37,6 +37,7 @@
 /NOIMPLIB
 /NOEXP
 /NATVIS:"../Plugins/Runtime/StateTree/Intermediate/Build/Win64/x64/UnrealEditor/Development/StateTreeModule/StateTree.natvis"
+/NATVIS:"../Intermediate/Build/Win64/x64/UnrealEditor/Development/GeometryCore/GeometryCore.natvis"
 "C:/Users/wmans/Desktop/Git Projects/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/GoreEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
 "C:/Users/wmans/Desktop/Git Projects/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/UnrealEditor/Development/Gore/Module.Gore.cpp.obj"
 "C:/Users/wmans/Desktop/Git Projects/UnrealProcGore/Gore/Intermediate/Build/Win64/x64/UnrealEditor/Development/Gore/Default.rc2.res"
@@ -50,6 +51,9 @@
 "../Plugins/Runtime/StateTree/Intermediate/Build/Win64/x64/UnrealEditor/Development/StateTreeModule/UnrealEditor-StateTreeModule.lib"
 "../Plugins/Runtime/GameplayStateTree/Intermediate/Build/Win64/x64/UnrealEditor/Development/GameplayStateTreeModule/UnrealEditor-GameplayStateTreeModule.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Slate/UnrealEditor-Slate.lib"
+"../Plugins/Runtime/GeometryScripting/Intermediate/Build/Win64/x64/UnrealEditor/Development/GeometryScriptingCore/UnrealEditor-GeometryScriptingCore.lib"
+"../Intermediate/Build/Win64/x64/UnrealEditor/Development/GeometryCore/UnrealEditor-GeometryCore.lib"
+"../Intermediate/Build/Win64/x64/UnrealEditor/Development/GeometryFramework/UnrealEditor-GeometryFramework.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
