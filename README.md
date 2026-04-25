@@ -1,7 +1,6 @@
 Hello and welcome to Gore Lib, a tool for procedural dismemberment of skeletal meshes in Unreal 5. 
 
-<img width="1818" height="1176" alt="Screenshot 2026-04-25 170918" src="https://github.com/DuskMoment/UnrealProcGore/edit/mine/images/Screenshot 2026-04-25 170918.png" />
-
+![Alt text](Images/Screenshot 2026-04-25 170918.png)
 This tool allows you to set up custom cuts, exchangeable VFX, Decals, and limb health.
 
 Instructions for creating your own system.
