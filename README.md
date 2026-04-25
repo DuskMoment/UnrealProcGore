@@ -8,7 +8,8 @@ Instructions for creating your own system.
 1. Create an actor
 2. Make sure that said actor has a skeletal mesh
 3. Then add the main driver of the system to your actor, the Bone Manager component
-![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/BoneManager.png)
+   
+(https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/BoneManager.png)
 
 
 
