@@ -1,8 +1,8 @@
 For build instructions, please do the following
-1. make sure you have git lfs
-2. clone the repo
+1. Make sure you have git lfs
+2. Clone the repo
 3. git lfs pull
-4. right click the uproject and build visual studio project
+4. Right-click the uproject and build a Visual Studio project
 5. launch project
 
 
