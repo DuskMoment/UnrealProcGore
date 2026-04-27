@@ -1,3 +1,11 @@
+For build instructions, please do the following
+1. make sure you have git lfs
+2. clone the repo
+3. git lfs pull
+4. right click the uproject and build visual studio project
+5. launch project
+
+
 Hello and welcome to Gore Lib, a tool for procedural dismemberment of skeletal meshes in Unreal 5. 
 
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/title.png)
