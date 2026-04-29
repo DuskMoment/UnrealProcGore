@@ -1,4 +1,4 @@
-#For build instructions, please do the following
+# For build instructions, please do the following
 1. Make sure you have git lfs
 2. Clone the repo
 3. git lfs pull
@@ -16,7 +16,7 @@
 Included in this repo is a demo scene with 5 TestActors: one of which explodes with the x key, and the others have individually trappable limbs, with their hit boxes displayed on the right of the shooting range. On top of this, one of the actors is animated to demonstrate integration with the animation system. 
 
 <br></br>
-#Hello and welcome to Gore Lib, a tool for procedural dismemberment of skeletal meshes in Unreal 5. 
+# Hello and welcome to Gore Lib, a tool for procedural dismemberment of skeletal meshes in Unreal 5. 
 
 <br></br>
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/title.png)
@@ -26,7 +26,7 @@ Included in this repo is a demo scene with 5 TestActors: one of which explodes w
 This tool allows you to set up custom cuts, exchangeable VFX, Decals, and limb health.
 <br></br>
 
-Instructions for creating your own system.
+# Instructions for creating your own system.
 1. Create an actor.
 2. Make sure that said actor has a skeletal mesh.
 3. Then add the main driver of the system to your actor, the Bone Manager component.
@@ -83,5 +83,5 @@ Now that all of the descriptions are created, they can be placed into the BoneMa
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/hook3.png)
 
 <br></br>
-#Trouble shooting: please keep in mind that all static mesh must be CPU read-enabled in the editor 
+#  Troubleshooting: Please keep in mind that all static mesh must be CPU read-enabled in the editor 
 
