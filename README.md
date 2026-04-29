@@ -49,7 +49,7 @@ This contains all of the descriptions of how your mesh is cut. Here is an exampl
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/SocketDiscExample.png)
 
 <br></br>
-You use the physics skeleton asset provided by Unreal to get the parent and child names. They should be the same name. The mesh reference should remain as NONE. The next 4 settings relate directly to how the mesh is cut. The offset and the scale relate to the location and dimensions of the cutting box. I recommend configuring these visually. Keep in mind that the cutting box starts at the feet of the skeletal mesh. The bool tells the system whether to even cut the limb. The final mesh is the STATIC mesh used to create the limb.
+You use the physics skeleton asset provided by Unreal to get the parent and child names. They should be the same name. The mesh reference should remain as NONE, as this is set at runtime. The next 4 settings relate directly to how the mesh is cut. The offset and the scale relate to the location and dimensions of the cutting box. I recommend configuring these visually. Keep in mind that the cutting box starts at the feet of the skeletal mesh. The bool tells the system whether to even cut the limb. The final mesh is the STATIC mesh used to create the limb.
 
 <br></br>
 The next configuration piece of the tool is the Blood VFX container
