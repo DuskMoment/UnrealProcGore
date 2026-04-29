@@ -4,12 +4,16 @@
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/Screenshot%202026-04-28%20201329.png)
 <br></br>
 
+# Summary
+This project aims to be a tool for UE5 artists in design to create dismemberment effects without relying on out-of-editor gib solutions. It does this by dynamically cutting the mesh at runtime using user-specified inputs. This tool's goal is to expose as many pipeline steps as possible, giving artists and designers fine-tuned control over the end product. This is done by using data tables as descriptors and inputs for ONE main component to keep complexity to a minimum.   
+
 # For build instructions, please do the following
 1. Make sure you have git lfs
 2. Clone the repo
 3. git lfs pull
 4. Right-click the uproject and build a Visual Studio project
 5. launch project
+
 
 # Feature List:
 1. BoneManger: This is an actor component that requires a skeletal mesh in the parent actor in order to function. It is the main driver of this program and handles all the operations done by the data tables.
@@ -48,7 +52,7 @@ This contains all of the descriptions of how your mesh is cut. Here is an exampl
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/SocketDiscExample.png)
 
 <br></br>
-You use the physics skeleton asset provided by Unreal to get the parent and child names. They should be the same name. The mesh reference should remain as NONE, as this is set at runtime. The next 4 settings relate directly to how the mesh is cut. The offset and the scale relate to the location and dimensions of the cutting box. I recommend configuring these visually. Keep in mind that the cutting box starts at the feet of the skeletal mesh. The bool tells the system whether to even cut the limb. The final mesh is the STATIC mesh used to create the limb.
+Using the physics skeleton asset provided by Unreal to set the name of the parent and child in the data. Note: they are the same name. The mesh reference should remain as NONE, as this is set at runtime. The next 4 settings relate directly to how the mesh is cut. The offset and the scale relate to the location and dimensions of the cutting box. I recommend configuring these visually. Keep in mind that the cutting box starts at the feet of the skeletal mesh. The bool tells the system whether to even cut the limb. The final mesh is the STATIC mesh used to create the limb.
 
 <br></br>
 The next configuration piece of the tool is the Blood VFX container
