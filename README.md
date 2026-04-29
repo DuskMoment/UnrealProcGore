@@ -5,7 +5,7 @@
 4. Right-click the uproject and build a Visual Studio project
 5. launch project
 
-#Feature List:
+# Feature List:
 1. BoneManger: This is an actor component that requires a skeletal mesh in the parent actor in order to function. It is the main driver of this program and handles all the operations done by the data tables.
 2. BP_DynamicMesh: An actor that is spawned at run time, dictated by the BloodSocketDescriptor to create a mesh bounding box that then cuts, textures, and creates collisions. 
 3. BloodBoneDiscriptor: This is a container that dictates how a mesh will be cut as well as its relation to the Unreal skeletal mesh physics asset. which is used in the bone manager to hide dismembered body parts and to spawn VFX and hit decals. This also includes a bool indicating whether the mesh should be dismembered at all.
