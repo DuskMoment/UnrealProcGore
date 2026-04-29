@@ -13,7 +13,8 @@ This project aims to be a tool for UE5 artists in design to create dismemberment
 3. git lfs pull
 4. Right-click the uproject and build a Visual Studio project
 5. launch project
-All files are located /Game/FirstPerson/Blueprints
+ <br></br>
+All files are located in /Game/FirstPerson/Blueprints
 
 # Feature List:
 1. BoneManger: This is an actor component that requires a skeletal mesh in the parent actor in order to function. It is the main driver of this program and handles all the operations done by the data tables.
