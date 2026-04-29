@@ -22,52 +22,64 @@ Hello and welcome to Gore Lib, a tool for procedural dismemberment of skeletal m
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/title.png)
 <br></br>
 
+<br></br>
 This tool allows you to set up custom cuts, exchangeable VFX, Decals, and limb health.
-<br>
+<br></br>
 
 Instructions for creating your own system.
 1. Create an actor.
 2. Make sure that said actor has a skeletal mesh.
 3. Then add the main driver of the system to your actor, the Bone Manager component.
 4. Create a static mesh of your skeletal mesh using Unreal's tool.
-  
+<br></br>
+
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/BoneManager.png)
 
+<br></br>
 After this is added, you can now configure your mesh. The configuration consists of three main components. The first of which is the BloodSocketDiscripter.
-<br>
-![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/BloodSocket.png)
-<br>
 
+<br></br>
+![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/BloodSocket.png)
+<br></br>
+
+<br></br>
 This contains all of the descriptions of how your mesh is cut. Here is an example of how you might set one up.
-<br>
+<br></br>
+
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/SocketDiscExample.png)
 
-You use the physics skeleton asset provided by Unreal to get the parent and child names. They should be the same name. The mesh reference should remain as NONE. The next 4 settings relate directly to how the mesh is cut. The offset and the scale relate to the location and dimensions of the cutting box. I recommend configuring these visually. Keep in mind that the cutting box starts at the feet of the skeletal mesh. The bool tells the system if you want to even cut the limb. The final mesh is the STATIC mesh used to create the limb.
+<br></br>
+You use the physics skeleton asset provided by Unreal to get the parent and child names. They should be the same name. The mesh reference should remain as NONE. The next 4 settings relate directly to how the mesh is cut. The offset and the scale relate to the location and dimensions of the cutting box. I recommend configuring these visually. Keep in mind that the cutting box starts at the feet of the skeletal mesh. The bool tells the system whether to even cut the limb. The final mesh is the STATIC mesh used to create the limb.
 
-
+<br></br>
 The next configuration piece of the tool is the Blood VFX container
 
+<br></br>
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/BloodVFXController.png)
+<br></br>
 
-This is used to configure what type of VFX is used at different stages of the system. Here is an example one
+This is used to configure what type of VFX is used at different stages of the system. Here is an example one.
 
+<br></br>
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/VFXExample.png)
+<br></br>
 
-
+<br></br>
 The final configuration component is the BloodHealthDiscriptor. This is used to support bone health. It also enables bones to be hit by things like ray casts.
+<br></br>
 
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/Screenshot%202026-04-25%20173100.png)
-
+<br></br>
 Here is an example configuration. 
-
+<br></br>
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/healthDiscEx.png)
-
+<br></br>
 Now that all of the descriptions are created, they can be placed into the BoneManger like so.
-
+<br></br>
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/hook1.png)
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/hook2.png)
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/hook3.png)
 
-
+<br></br>
 trouble shooting: please keep in mind that all static mesh must be CPU read-enabled in the editor 
 
