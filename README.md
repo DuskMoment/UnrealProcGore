@@ -77,7 +77,9 @@ Here is an example configuration.
 Now that all of the descriptions are created, they can be placed into the BoneManger like so.
 <br></br>
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/hook1.png)
+<br></br>
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/hook2.png)
+<br></br>
 ![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/hook3.png)
 
 <br></br>
