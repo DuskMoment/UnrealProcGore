@@ -1,3 +1,10 @@
+<br></br>
+# Hello and welcome to Gore Lib, a tool for procedural dismemberment of skeletal meshes in Unreal 5. 
+
+<br></br>
+![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/title.png)
+<br></br>
+
 # For build instructions, please do the following
 1. Make sure you have git lfs
 2. Clone the repo
@@ -13,14 +20,7 @@
 5. BloddBoneVFXContainor: This tells the BoneManger what VFX to spawn at different stages of the pipeline. It has VFX for OnHit, OnDetach, and OnBleed. It also supports decal spawn, OnHit, and OnSustain.
 
 <br></br>
-Included in this repo is a demo scene with 5 TestActors: one of which explodes with the x key, and the others have individually trappable limbs, with their hit boxes displayed on the right of the shooting range. On top of this, one of the actors is animated to demonstrate integration with the animation system. 
-
-<br></br>
-# Hello and welcome to Gore Lib, a tool for procedural dismemberment of skeletal meshes in Unreal 5. 
-
-<br></br>
-![Alt text](https://github.com/DuskMoment/UnrealProcGore/blob/main/Images/title.png)
-<br></br>
+Included in this repo is a demo scene with 5 Test Actors: one of which explodes with the x key, and the others have individually trappable limbs, with their hit boxes displayed on the right of the shooting range. On top of this, one of the actors is animated to demonstrate integration with the animation system. 
 
 <br></br>
 This tool allows you to set up custom cuts, exchangeable VFX, Decals, and limb health.
