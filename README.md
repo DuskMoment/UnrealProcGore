@@ -11,8 +11,10 @@ Feature List:
 3. BloodBoneDiscriptor: This is a container that dictates how a mesh will be cut as well as its relation to the Unreal skeletal mesh physics asset. which is used in the bone manager to hide dismembered body parts and to spawn VFX and hit decals. This also includes a bool indicating whether the mesh should even be dismembered.
 4. BloodBoneHealthDiscriptor: Defines health values of the input bones as well as tells the BloodBone manager that a limb can be individually targeted.
 5. BloddBoneVFXContainor: This tells the BoneManger what VFX to spawn at different stages of the pipeline. It has VFX for OnHit, OnDetach, and OnBleed. It also supports decal spawn, OnHit, and OnSustain.
-Included in this repo is a demo scene with 5 TestActors: one of which explodes with the x key, and the others have individually trappable limbs, with their hit boxes displayed on the right of the shooting range. On top of this, one of the actors is animated to demonstrate integration with the animation system. 
 
+<br>
+Included in this repo is a demo scene with 5 TestActors: one of which explodes with the x key, and the others have individually trappable limbs, with their hit boxes displayed on the right of the shooting range. On top of this, one of the actors is animated to demonstrate integration with the animation system. 
+<br>
 
 Hello and welcome to Gore Lib, a tool for procedural dismemberment of skeletal meshes in Unreal 5. 
 
